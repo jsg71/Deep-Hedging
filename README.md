@@ -12,12 +12,12 @@
 # RL
 * [Reinforcement learning in financial markets - a survey](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf), Fischer (2018).
 * [Reinforcement Learning in Financial Markets](https://ideas.repec.org/p/zbw/iwqwdp/122018.html#targetText=The%20advent%20of%20reinforcement%20learning,this%20field%20of%20artificial%20intelligence.&targetText=At%20the%20same%20time%2C%20important,be%20conveniently%20taken%20into%20account.), Meng et al. (2019).
-* [Reinforcement Learning for Trading Systems and Portfolios](https://pdfs.semanticscholar.org/10f3/4407d0f7766cfb887334de4ce105d5aa8aae.pdf), Moody et al (1998).
 * [Optimal Asset Allocation Using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf), Neuneier (1996).
+* [Reinforcement Learning for Trading Systems and Portfolios](https://pdfs.semanticscholar.org/10f3/4407d0f7766cfb887334de4ce105d5aa8aae.pdf), Moody et al (1998).
 * [PERFORMANCE FUNCTIONS AND REINFORCEMENT LEARNING FOR TRADING SYSTEMS AND PORTFOLIOS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.8437&rep=rep1&type=pdf), Moody et al (1998).
 * [Reinforcement Learning for Trading](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf), Moody et al. (1999).
-* [Moody presentation](http://www.cs.cmu.edu/afs/cs/project/link-3/lafferty/www/ml-stat-www/moody.pdf), Moody (2003).
 * [Learning to trade via direct reinforcement](http://people.idsia.ch/~juergen/rnnaissance2003talks/MoodySaffellTNN01.pdf), Moody (2001).
+* [Moody presentation](http://www.cs.cmu.edu/afs/cs/project/link-3/lafferty/www/ml-stat-www/moody.pdf), Moody (2003).
 * [Stochastic Direct Reinforcement: Application to Simple Games with Recurrence](https://www.aaai.org/Papers/Symposia/Fall/2004/FS-04-02/FS04-02-004.pdf), Moody et al (2003).
 * [Reinforcement Learning for Stochastic Control Problems in Finance](http://web.stanford.edu/class/cme241/), Rao (2018).
 * [Deep Hedging](https://arxiv.org/pdf/1802.03042.pdf), BUEHLER et al. (2018).
@@ -35,9 +35,7 @@ reinforcement learning](http://cs229.stanford.edu/proj2009/LvDuZhai.pdf), Du et 
 * [An Automated fx trading system using adaptive reinforcement learning](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/workingpapers/wp0418.pdf), Dempster (2004).
 * [Model-based Deep Reinforcement Learning for Dynamic Portfolio Optimization](https://arxiv.org/pdf/1901.08740.pdf),  Yu et al (2019).
 * [Cryptocurrency Portfolio Management with Deep Reinforcement Learning](https://arxiv.org/pdf/1612.01277.pdf), Jiang et al  (2017).
-* [An adaptive portfolio trading system: A risk-return portfolio
-optimization using recurrent reinforcement learning with expected
-maximum drawdown](https://www.researchgate.net/profile/Steve_Yang2/publication/317622713_An_adaptive_portfolio_trading_system_A_risk-return_portfolio_optimization_using_recurrent_reinforcement_learning_with_expected_maximum_drawdown/links/59f3401da6fdcc075ec339c5/An-adaptive-portfolio-trading-system-A-risk-return-portfolio-optimization-using-recurrent-reinforcement-learning-with-expected-maximum-drawdown.pdf), Almahdi et al (2017).
+* [An adaptive portfolio trading system: A risk-return portfolio optimization using recurrent reinforcement learning with expected maximum drawdown](https://www.researchgate.net/profile/Steve_Yang2/publication/317622713_An_adaptive_portfolio_trading_system_A_risk-return_portfolio_optimization_using_recurrent_reinforcement_learning_with_expected_maximum_drawdown/links/59f3401da6fdcc075ec339c5/An-adaptive-portfolio-trading-system-A-risk-return-portfolio-optimization-using-recurrent-reinforcement-learning-with-expected-maximum-drawdown.pdf), Almahdi et al (2017).
 * [Portfolio Choices with Orthogonal Bandit Learning](http://yugangjiang.info/publication/ijcai15-OBL.pdf), Shen et al. (2015)
 * [Risk-Aware Multi-Armed Bandit Problem with Application to Portfolio Selection](https://arxiv.org/pdf/1709.04415.pdf), Huo (2017)
 * [Application of stochastic recurrent reinforcement learning to index trading ](http://discovery.ucl.ac.uk/1339314/1/es2011-60%5B1%5D.pdf), Gorse (2011).
@@ -47,7 +45,7 @@ for financial trading: Introduction and applications](https://pdf.sciencedirecta
 within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf), Cumming (2015).
 * [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787.pdf), Huang (2018).
 * [Deep Reinforcement Learning for Foreign Exchange Trading](https://arxiv.org/pdf/1908.08036.pdf), Wang (2019).
-* [Capturing Financial markets to apply Deep Reinforcement Learning ](https://arxiv.org/pdf/1907.04373.pdf), Chakraborty (2019).
+* [Capturing Financial markets to apply Deep Reinforcement Learning](https://arxiv.org/pdf/1907.04373.pdf), Chakraborty (2019).
 * [Reinforcement Learning For Automated Trading](http://www1.mate.polimi.it/~forma/Didattica/ProgettiPacs/BrambillaNecchi15-16/PACS_Report_Pierpaolo_Necchi.pdf), Necchi  (2016).
 * [Towards Inverse Reinforcement Learning for Limit Order Book Dynamics](https://arxiv.org/pdf/1906.04813.pdf), Roa-Vicens et al (2019).
 * [Multi-Period Trading via Convex Optimization](https://arxiv.org/pdf/1705.00109.pdf). Boyd et al. (2017).
