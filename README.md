@@ -24,12 +24,6 @@
 * [Deep Hedging](https://arxiv.org/pdf/1802.03042.pdf), BUEHLER et al. (2018).
 * [Deep Hedging: Hedging Derivatives Under Generic Market Frictions Using Reinforcement Learning](https://poseidon01.ssrn.com/delivery.php?ID=699064116031077097087112121097105025123011062088031092022073127100022097028123112089013000007026033049005010005121089085004101102026033060067071107028113069028068020022001080013026079071105097107078018096065081067105125014124087106094118127009119065&EXT=pdf), Buehler (2019).
 * [Model-Free Option Pricing with Reinforcement Learning](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/IgorHalperin_Columbia_ML_in_finance_QLBS.pdf), Halperin, (2018).
-* [Deep Learning in Finance](https://arxiv.org/abs/1602.06561), Heaton et al. (2015).
-* [Deep Portfolio Theory](https://arxiv.org/abs/1605.07230), Heaton et al. (2016).
-* [Deep Learning in Asset Pricing](https://arxiv.org/abs/1805.01104), Feng et al. (2018).
-* [Adaptive Portfolio Asset Allocation Optimization with Deep Learning](http://www.thinkmind.org/download.php?articleid=intsys_v11_n12_2018_3) Obeidat et al. (2018).
-* [Portfolio Optimisation in an Uncertain world](https://www.northinfo.com/documents/740.pdf), de Jong (2017).
-* [Empirical Asset Pricing via Machine Learning](https://poseidon01.ssrn.com/delivery.php?ID=856093125087082084016102091092007100060006063087051074127084028094112096004004064108038021018041122035062067123102100071094080049045093023049072118096000064081103084062051035088126094099100013006118027020024030000097122082084074011113081006075109085069&EXT=pdf), Kelly et al (2018).
 * [Reinforcement learning in financial markets - a survey](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf), Fischer (2018).
 * [Portfolio Choices with Orthogonal Bandit Learning](http://yugangjiang.info/publication/ijcai15-OBL.pdf), Shen et al. (2015)
 * [Risk-Aware Multi-Armed Bandit Problem with Application to Portfolio Selection](https://arxiv.org/pdf/1709.04415.pdf), Huo (2017)
@@ -45,7 +39,6 @@
 * [PERFORMANCE FUNCTIONS AND REINFORCEMENT
 LEARNING FOR TRADING SYSTEMS AND PORTFOLIOS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.8437&rep=rep1&type=pdf), Moody et al (1998).
 * [Reinforcement Learning for Trading](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf), Moody et al. (1999).
-* [Online Portfolio Selection: A Survey](https://arxiv.org/pdf/1212.2129.pdf), Li et al (2013).
 * [Cryptocurrency Portfolio Management with Deep Reinforcement Learning](https://arxiv.org/pdf/1612.01277.pdf), Jiang et al  (2017).
 * [An adaptive portfolio trading system: A risk-return portfolio
 optimization using recurrent reinforcement learning with expected
@@ -66,7 +59,5 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Towards Inverse Reinforcement Learning for Limit Order Book Dynamics](https://arxiv.org/pdf/1906.04813.pdf), Roa-Vicens et al (2019).
 * [Optimal Asset Allocation Using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf), Neuneier (1996).
 * [Reinforcement Learning for Trading Systems and Portfolios](https://pdfs.semanticscholar.org/10f3/4407d0f7766cfb887334de4ce105d5aa8aae.pdf), Moody et al (1998).
-* [Fourier Policy Gradients](https://arxiv.org/pdf/1802.06891.pdf), Fellows et al. (2018).
-* [Expected Policy Gradients](http://www.ciosek.net/dwnl/ciosek-whiteson-epg.pdf), Kiosek et al. (2018).
 * [Multi-Period Trading via Convex Optimization](https://arxiv.org/pdf/1705.00109.pdf). Boyd et al. (2017).
 
