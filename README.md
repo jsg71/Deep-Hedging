@@ -12,17 +12,18 @@
 # RL
 * [Reinforcement learning in financial markets - a survey](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf), Fischer (2018).
 * [Reinforcement Learning in Financial Markets](https://ideas.repec.org/p/zbw/iwqwdp/122018.html#targetText=The%20advent%20of%20reinforcement%20learning,this%20field%20of%20artificial%20intelligence.&targetText=At%20the%20same%20time%2C%20important,be%20conveniently%20taken%20into%20account.), Meng et al. (2019).
-* [Reinforcement Learning for Stochastic Control Problems in Finance](http://web.stanford.edu/class/cme241/), Rao (2018).
-* [Deep Hedging](https://arxiv.org/pdf/1802.03042.pdf), BUEHLER et al. (2018).
-* [Deep Hedging: Hedging Derivatives Under Generic Market Frictions Using Reinforcement Learning](https://poseidon01.ssrn.com/delivery.php?ID=699064116031077097087112121097105025123011062088031092022073127100022097028123112089013000007026033049005010005121089085004101102026033060067071107028113069028068020022001080013026079071105097107078018096065081067105125014124087106094118127009119065&EXT=pdf), Buehler (2019).
-* [Model-Free Option Pricing with Reinforcement Learning](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/IgorHalperin_Columbia_ML_in_finance_QLBS.pdf), Halperin, (2018).
-* [QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds](https://arxiv.org/pdf/1712.04609.pdf), Halperin (2019).
+* [Reinforcement Learning for Trading Systems and Portfolios](https://pdfs.semanticscholar.org/10f3/4407d0f7766cfb887334de4ce105d5aa8aae.pdf), Moody et al (1998).
 * [Optimal Asset Allocation Using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf), Neuneier (1996).
 * [PERFORMANCE FUNCTIONS AND REINFORCEMENT LEARNING FOR TRADING SYSTEMS AND PORTFOLIOS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.8437&rep=rep1&type=pdf), Moody et al (1998).
 * [Reinforcement Learning for Trading](http://papers.nips.cc/paper/1551-reinforcement-learning-for-trading.pdf), Moody et al. (1999).
 * [Moody presentation](http://www.cs.cmu.edu/afs/cs/project/link-3/lafferty/www/ml-stat-www/moody.pdf), Moody (2003).
 * [Learning to trade via direct reinforcement](http://people.idsia.ch/~juergen/rnnaissance2003talks/MoodySaffellTNN01.pdf), Moody (2001).
 * [Stochastic Direct Reinforcement: Application to Simple Games with Recurrence](https://www.aaai.org/Papers/Symposia/Fall/2004/FS-04-02/FS04-02-004.pdf), Moody et al (2003).
+* [Reinforcement Learning for Stochastic Control Problems in Finance](http://web.stanford.edu/class/cme241/), Rao (2018).
+* [Deep Hedging](https://arxiv.org/pdf/1802.03042.pdf), BUEHLER et al. (2018).
+* [Deep Hedging: Hedging Derivatives Under Generic Market Frictions Using Reinforcement Learning](https://poseidon01.ssrn.com/delivery.php?ID=699064116031077097087112121097105025123011062088031092022073127100022097028123112089013000007026033049005010005121089085004101102026033060067071107028113069028068020022001080013026079071105097107078018096065081067105125014124087106094118127009119065&EXT=pdf), Buehler (2019).
+* [Model-Free Option Pricing with Reinforcement Learning](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/IgorHalperin_Columbia_ML_in_finance_QLBS.pdf), Halperin, (2018).
+* [QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds](https://arxiv.org/pdf/1712.04609.pdf), Halperin (2019).
 * [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf), Lu (2017).
 * [A reinforcement learning approach for pricing derivatives](http://cs229.stanford.edu/proj2010/Grassl-AReinforcementLearningApproachForPricingDerivatives.pdf), Grassl, (2008).
 * [Regime-switching recurrent reinforcement learning for investment decision making](http://doc.rero.ch/record/321803/files/10287_2011_Article_131.pdf), Maringer (2009).
@@ -49,6 +50,5 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Capturing Financial markets to apply Deep Reinforcement Learning ](https://arxiv.org/pdf/1907.04373.pdf), Chakraborty (2019).
 * [Reinforcement Learning For Automated Trading](http://www1.mate.polimi.it/~forma/Didattica/ProgettiPacs/BrambillaNecchi15-16/PACS_Report_Pierpaolo_Necchi.pdf), Necchi  (2016).
 * [Towards Inverse Reinforcement Learning for Limit Order Book Dynamics](https://arxiv.org/pdf/1906.04813.pdf), Roa-Vicens et al (2019).
-* [Reinforcement Learning for Trading Systems and Portfolios](https://pdfs.semanticscholar.org/10f3/4407d0f7766cfb887334de4ce105d5aa8aae.pdf), Moody et al (1998).
 * [Multi-Period Trading via Convex Optimization](https://arxiv.org/pdf/1705.00109.pdf). Boyd et al. (2017).
 
