@@ -4,19 +4,10 @@
 
 # Table of contents
 * [Key Ideas](#Key-Ideas)
-* [Books](#Books)
 * [Deep Hedging Related](#Deep-Hedging-Related)
 
 # Key Ideas
 
-# Books
-
-* (book) [Portfolio Selection](https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf), Markowitz (1952).
-* (book) [Continuous Time Finance](https://www.amazon.co.uk/Continuous-Time-Finance-Macroeconomics-Robert-Merton/dp/0631185089/ref=sr_1_1?keywords=continuous+time+finance&qid=1552911190&s=gateway&sr=8-1), Merton (1992).
-* (book) [Advances in Financial Machine Learning](https://www.amazon.co.uk/Advances-Financial-Machine-Learning-Marcos/dp/1119482089), De Marcos (2018).
-* (book) [Active Portfolio Management](https://www.amazon.co.uk/Active-Portfolio-Management-quantative-producing/dp/0070248826/ref=sr_1_12?ie=UTF8&qid=1551529726&sr=8-12&keywords=portfolio+management), Grinold and Kahn (1999).
-* (book) [Machine Learning for Algorithmic Trading](https://www.amazon.co.uk/Hands-Machine-Learning-Algorithmic-Trading/dp/178934641X/ref=sr_1_1?keywords=machine+learning+for+algorithmic+trading&qid=1552910896&s=gateway&sr=8-1), Jansen (2018).
-* (book) [Financial Signal Processing and Machine Learning](https://www.amazon.co.uk/Financial-Signal-Processing-Machine-Learning/dp/1118745671/ref=sr_1_fkmrnull_1?keywords=financial+signal+processing+and+machine+learning&qid=1552911044&s=gateway&sr=8-1-fkmrnull), Akansu et al. (2016).
 
 # Deep Hedging Related
 
