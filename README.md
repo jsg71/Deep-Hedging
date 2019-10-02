@@ -7,6 +7,120 @@
 * [Deep Hedging Related](#Deep-Hedging-Related)
 
 # Key Ideas
+ M. Broadie and O. Kaya, ¨ Exact simulation of stochastic volatility and other
+affine jump diffusion processes, Operations Research 54 (2006), no. 2, 217–
+231.
+DEEP HEDGING 31
+[BR06] C. Burgert and L. R¨uschendorf, Consistent risk measures for portfolio vectors,
+Insurance: Mathematics and Economics (2006), 289–297.
+[BTT07] A. Ben-Tal and M. Teboulle, An old-new concept of convex risk measures: the
+optimized certainty equivalent, Mathematical Finance 17 (2007), no. 3, 449–
+476.
+[Duf01] D. Dufresne, The integrated square-root process, Centre for Actuarial Studies,
+University of Melbourne, 2001, Research Paper no. 90.
+[Dup94] B. Dupire, Pricing with a smile, Risk 7 (1994), 18–20.
+[DZL09] X. Du, J. Zhai, and K. Lv, Algorithm trading using q-learning and recurrent
+reinforcement learning, arxiv (2009), https://arxiv.org/pdf/1707.07338.pdf.
+[FL00] H. F¨ollmer and P. Leukert, Efficient hedging: Cost versus shortfall risk, Finance
+and Stochastics 4 (2000), 117–146.
+[FS16] H. F¨ollmer and A. Schied, Stochastic finance: An introduction in discrete time,
+De Gruyter, 2016.
+[Gla04] P. Glasserman, Monte carlo methods in financial engineering, Applications of
+mathematics : stochastic modelling and applied probability, Springer, 2004.
+[GS13] J. Gatheral and A. Schied, Dynamical models of market impact and algorithms
+for order execution, Handbook on Systemic Risk (2013), 579–599.
+[Hal17] I. Halperin, Qlbs: Q-learner in the black-scholes (-merton) worlds, arxiv (2017),
+https://arxiv.org/abs/1712.04609.
+[HBP17] G. Kutyniok, H. B¨olcskei, P. Grohs and P. Petersen, Optimal approximation with sparsely connected deep neural networks, Preprint arXiv:1705.01714
+(2017).
+[HMSC95] S. E. Shreve, H. M. Soner and J. Cvitani´c, There is no nontrivial hedging portfolio for option pricing with transaction costs, The Annals of Applied Probability
+5 (1995), no. 2, 327–355.
+[HN89] S. Hodges and A. Neuberger, Optimal replication of contingent claims under
+transaction costs, The Review of Futures Markets 8 (1989), no. 2, 222–239.
+[Hor91] K. Hornik, Approximation capabilities of multilayer feedforward networks, Neural Networks 4 (1991), no. 2, 251–257.
+[IAR09] M. Jonsson, A. ˙Ilhan and R. Sircar, Optimal static-dynamic hedges for exotic
+options under convex risk measures, Stochastic Processes and their Applications
+119 (2009), no. 10, 3608 – 3632.
+[IGC16] Y. Bengio, I. Goodfellow and A. Courville, Deep learning, MIT Press, 2016,
+http://www.deeplearningbook.org.
+[IS15] S. Ioffe and C. Szegedy, Batch normalization: Accelerating deep network training by reducing internal covariate shift, Proceedings of the 32nd International
+Conference on Machine Learning, 2015, pp. 448–456.
+[JMKS17] M. Reppen, J. Muhle-Karbe and H. M. Soner, A primer on portfolio choice
+with small transaction costs, Annual Review of Financial Economics 9 (2017),
+no. 1, 301–331.
+[KB15] D. P. Kingma and J. Ba, Adam: a method for stochastic optimization, Proceedings of the International Conference on Learning Representations (ICLR)
+(2015).
+[KMK15] J. Kallsen and J. Muhle-Karbe, Option pricing and hedging with small transaction costs, Mathematical Finance 25 (2015), no. 4, 702–723.
+[KS07] S. Kl¨oppel and M. Schweizer, Dynamic indifference valuation via convex risk
+measures, Mathematical Finance 17 (2007), no. 4, 599–627.
+[LBAK10] P. J¨ackel, L. B. G. Andersen and C. Kahl, Simulation of square-root processes,
+Encyclopedia of Quantitative Finance, John Wiley & Sons, Ltd, 2010.
+[Lu17] D. Lu, Agent inspired trading using recurrent reinforcement learning and lstm
+neural networks, arxiv (2017), https://arxiv.org/pdf/1707.07338.pdf.
+[MHADZ93] V. G. Panas, M. H. A. Davis and T. Zariphopoulou, European option pricing
+with transaction costs, SIAM Journal on Control and Optimization 31 (1993),
+no. 2, 470–493.
+32 BUEHLER, GONON, TEICHMANN, AND WOOD
+[MW97] J. Moody and L. Wu, Optimization of trading systems and portfolios, Proceedings of the IEEE/IAFE 1997 Computational Intelligence for Financial Engineering (CIFEr) (1997), 300–307.
+[PBV17] H. M. Soner, P. Bank and M. Voß, Hedging with temporary price impact, Mathematics and Financial Economics 11 (2017), no. 2, 215–239.
+[Rog04] L. C. G. Rogers, Why is the effect of proportional transaction costs O(δ
+2/3
+),
+Mathematics of Finance (G. Yin and Q. Zhang, eds.), American Mathematical
+Society, Providence, RI, 2004, pp. 303–308.
+[RS10] L. C. G. Rogers and S. Singh, The cost of illiquidity and its effects on hedging,
+Mathematical Finance 20 (2010), no. 4, 597–615.
+[WW97] A. E. Whalley and P. Wilmott, An asymptotic analysis of an optimal hedging
+model for option pricing with transaction costs, Mathematical Finance 7 (1997),
+no. 3, 307–324.
+[Xu06] M. Xu, Risk measure pricing and hedging in incomplete markets, Annals of
+Finance 2 (2006), no. 1, 51–71.
+[ZJL17] D. Xu, Z. Jiang and J. Liang, A deep reinforcement learning framework for the financial portfolio management problem, arxiv (2017),
+https://arxiv.org/abs/1706.10059.
+[1] Fischer Black and Myron Scholes. The pricing of options and corporate liabilities. Journal of
+Political Economy, 81:637–654, 1973.
+[2] Hans Buehler. Heston model. In Encyclopedia of Quantitative Finance. John Wiley & Sons,
+Ltd, 2010.
+[3] Hans Buehler, Lukas Gonon, Josef Teichmann, and Ben Wood. Deep hedging. arxiv, 2018.
+https://arxiv.org/pdf/1802.03042.pdf.
+[4] Xin Du, JinJian Zhai, and Koupin Lv. Algorithm trading using Q-learning and recurrent
+reinforcement learning. arxiv, 2009. https://arxiv.org/pdf/1707.07338.pdf.
+[5] Hans Follmer and Alexander Schied. ¨ Stochastic finance: An introduction in discrete time. De
+Gruyter, 2016.
+[6] Igor Halperin. QLBS: Q-learner in the Black-Scholes (-Merton) worlds. arxiv, 2017.
+https://arxiv.org/abs/1712.04609.
+[7] Steven Heston. A closed-form solution for options with stochastic volatility with applications
+to bond and currency options. The Review of Financial Studies, 6(2):327343, 1993.
+[8] Sepp Hochreiter and Jurgen Schmidhuber. Long short-term memory. ¨ Neural computation, 9(8):
+1735–1780, 1997.
+[9] Kurt Hornik. Approximation capabilities of multilayer feedforward networks. Neural Networks,
+4(2):251–257, 1991.
+[10] James M Hutchinson, Andrew W Lo, and Tomaso Poggio. A nonparametric approach to pricing
+and hedging derivative securities via learning networks. The Journal of Finance, 49:851–889,
+1994.
+[11] Zhengyao Jiang, Dixing Xu, and Jinjun Liang. A deep reinforcement learning framework for
+the financial portfolio management problem. arxiv, 2017. https://arxiv.org/abs/1706.10059.
+[12] N. El Karoui, S. Peng, and M. C. Quenez. Backward stochastic differential equations in finance.
+Mathematical Finance, 71(1), 1997.
+[13] Diederik P. Kingma and Jimmy Ba. Adam: a method for stochastic optimization. Proceedings
+of the International Conference on Learning Representations (ICLR), 2015.
+[14] Francis Longstaff and Eduardo Schwarz. Valuing american options by simulation: A simple
+least-squares approach. The Review of Financial Studies, 14(1):113–147, 2001.
+9
+Electronic copy available at: https://ssrn.com/abstract=3355706
+[15] David Lu. Agent inspired trading using recurrent reinforcement learning and LSTM neural
+networks. arxiv, 2017. https://arxiv.org/pdf/1707.07338.pdf.
+[16] John Moody and Lizhong Wu. Optimization of trading systems and portfolios. Proceedings of
+the IEEE/IAFE 1997 Computational Intelligence for Financial Engineering (CIFEr), 1997.
+[17] H. Mete Soner Peter Bank and Moritz Voß. Hedging with temporary price impact. Mathematics
+and Financial Economics, 11(2):215–239, Mar 2017.
+[18] L. C. G. Rogers and Surbjeet Singh. The cost of illiquidity and its effects on hedging. Mathematical Finance, 20(4):597–615, 2010.
+[19] H. M. Soner, S. E. Shreve, and J. Cvitani. There is no nontrivial hedging portfolio for option
+pricing with transaction costs. The Annals of Applied Probability, 5(2):327–355, 1995.
+[20] Richard Sutton and Andrew Barto. Reinforcement Learning: An Introduction. Adaptive
+Computation and Machine Learning. MIT Press, 1998.
+
+
 
 
 # Deep Hedging Related
