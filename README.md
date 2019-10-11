@@ -49,4 +49,5 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Reinforcement Learning For Automated Trading](http://www1.mate.polimi.it/~forma/Didattica/ProgettiPacs/BrambillaNecchi15-16/PACS_Report_Pierpaolo_Necchi.pdf), Necchi  (2016).
 * [Towards Inverse Reinforcement Learning for Limit Order Book Dynamics](https://arxiv.org/pdf/1906.04813.pdf), Roa-Vicens et al (2019).
 * [Multi-Period Trading via Convex Optimization](https://arxiv.org/pdf/1705.00109.pdf). Boyd et al. (2017).
+* [Optimal Execution of Portfolio Transactions](https://www.math.nyu.edu/faculty/chriss/optliq_f.pdf), Chris (1999).
 
