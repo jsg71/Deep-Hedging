@@ -112,6 +112,12 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/pdf/1901.08943.pdf), Liu (2019).
 * [Machine Learning and Option Implied Information](https://spiral.imperial.ac.uk/bitstream/10044/1/57953/5/Yu-Z-2018-PhD-Thesis.pdf), Zheng (2018).
 * [Hedged Monte-Carlo: low variance derivative pricing with objective probabilities](https://arxiv.org/pdf/cond-mat/0008147.pdf), Potter et al. (2000).
+* [Dynamic Replication and Hedging: A Reinforcement Learning Approach](https://www.researchgate.net/publication/329435926_Dynamic_Replication_and_Hedging_A_Reinforcement_Learning_Approach), Ritter (2019).
+* [Deep learning approach to hedging Thesis](https://www.natixis.com/natixis/upload/docs/application/pdf/2019-10/michal_kozyra_prix_natixis_2019_du_meilleur_memoire_de_master_en_finance_quantitative.pdf), Kozyra (2018).
+* [Deep Hedging - Presentation](https://www.maths.ox.ac.uk/system/files/attachments/2019%2004%2024%20Deep%20Hedging%20Frontiers%20Imperial%202.1.pdf), Beuler (2018).
+* [Pricing and Hedging Exotic Options with Monte Carlo Simulations](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E50E03046624FEC67933C3D86B01FA71?doi=10.1.1.194.9001&rep=rep1&type=pdf), Perilla Msc (2003).
+* [The Four Horsemen of Machine Learning in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3453564), Halperin (2019).
+
 
 # Machine-Learning-Asset-Allocation
 
