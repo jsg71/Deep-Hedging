@@ -52,4 +52,5 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Optimal Execution of Portfolio Transactions](https://www.math.nyu.edu/faculty/chriss/optliq_f.pdf), Chris (1999).
 * [Deep Learning Volatility](https://arxiv.org/pdf/1901.09647.pdf), Horvath (2019).
 * [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/pdf/1901.08943.pdf), Liu (2019).
+* [Machine Learning and Option Implied Information](https://spiral.imperial.ac.uk/bitstream/10044/1/57953/5/Yu-Z-2018-PhD-Thesis.pdf), Zheng (2018).
 
