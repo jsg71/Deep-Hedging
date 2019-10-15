@@ -123,7 +123,7 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 
 # Machine-Learning-Asset-Allocation
 
-# DL RL and Bandits
+# DL Online and Bandits
 
 * [Reinforcement Learning for Stochastic Control Problems in Finance](http://web.stanford.edu/class/cme241/), Rao (2018).
 * [Deep Learning in Finance](https://arxiv.org/abs/1602.06561), Heaton et al. (2015).
