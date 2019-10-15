@@ -2,8 +2,7 @@
 
 # Table of contents
 * [Key Ideas](#Key-Ideas)
-* [RL](#RL)
-* [Books](#Books)
+* [Books](#Books)* [RL](#RL)
 * [DL RL and Bandits](#DL-RL-and-Bandits)
 * [Classic Portfolio Selection Materials](#Classic-Portfolio-Selection-Materials)
 * [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection-and-Asset-Pricing)
@@ -48,6 +47,25 @@ Note that allocation problems, may in some cases be reduced to single state band
 One issue with finance is a proof of concept as regards whether a system works or not above a baseline. We have one instance of history, thus the author intends both control experiments with simulated data and oracles, as well as real life examples.
 There are a very wide variety of financial applications that these techniques can be applied to, however there are also control problems or areas outside the financial domain where the work is expected to have applicability.
 
+# Books
+
+* (book) [Portfolio Selection](https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf), Markowitz (1952).
+* (book) [Continuous Time Finance](https://www.amazon.co.uk/Continuous-Time-Finance-Macroeconomics-Robert-Merton/dp/0631185089/ref=sr_1_1?keywords=continuous+time+finance&qid=1552911190&s=gateway&sr=8-1), Merton (1992).
+* (book) [Learning Bayesian Networks](http://www.cs.technion.ac.il/~dang/books/Learning%20Bayesian%20Networks(Neapolitan,%20Richard).pdf), Neopolitan (2003).
+* (book) [Advances in Financial Machine Learning](https://www.amazon.co.uk/Advances-Financial-Machine-Learning-Marcos/dp/1119482089), De Marcos (2018).
+* (book) [Active Portfolio Management](https://www.amazon.co.uk/Active-Portfolio-Management-quantative-producing/dp/0070248826/ref=sr_1_12?ie=UTF8&qid=1551529726&sr=8-12&keywords=portfolio+management), Grinold and Kahn (1999).
+* (book) [Efficient Asset Management](https://www.amazon.co.uk/Management-Optimization-Allocation-Association-2008-03-20/dp/B01K0T9PLA/ref=sr_1_2?crid=HQUZ8WEPB4Q3&keywords=efficient+asset+management&qid=1552910379&s=gateway&sprefix=efficient+asset+%2Caps%2C132&sr=8-2), Michaud (2008).
+* (book) [Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling](https://www.amazon.co.uk/Probabilistic-Graphical-Models-Financial-Modelling/dp/1782720979/ref=sr_1_2?crid=3GE4YB6FPV1W8&keywords=probabilistic+graphical+models&qid=1552910436&s=gateway&sprefix=probabilistic+%2Caps%2C135&sr=8-2), Denev (2015).
+* (book) [Portfolio Management under Stress](https://www.amazon.co.uk/Portfolio-Management-under-Stress-Bayesian-Net/dp/1107048117/ref=sr_1_fkmrnull_1?keywords=portfolio+management+under+stress&qid=1552910585&s=gateway&sr=8-1-fkmrnull), Rebonnato (2014).
+* (book) [Risk Assessment and Decision Analysis with Bayesian Networks](https://www.amazon.co.uk/Assessment-Decision-Analysis-Bayesian-Networks/dp/1138035114/ref=sr_1_fkmrnull_1?crid=JRRYQZZZYNNZ&keywords=risk+assessment+and+decision+analysis+with+bayesian+networks&qid=1552910520&s=gateway&sprefix=risk+asses%2Caps%2C133&sr=8-1-fkmrnull), Fenton (2018).
+* (book) [Portfolio Construction and Risk Budgeting](https://www.amazon.co.uk/Portfolio-Construction-Risk-Budgeting-5th/dp/1782721002/ref=sr_1_fkmrnull_1?keywords=portfolio+construction+and+risk+budgeting&qid=1552910729&s=gateway&sr=8-1-fkmrnull), Scherer (2015).
+* (book) [Machine Learning for Algorithmic Trading](https://www.amazon.co.uk/Hands-Machine-Learning-Algorithmic-Trading/dp/178934641X/ref=sr_1_1?keywords=machine+learning+for+algorithmic+trading&qid=1552910896&s=gateway&sr=8-1), Jansen (2018).
+* (book) [Financial Signal Processing and Machine Learning](https://www.amazon.co.uk/Financial-Signal-Processing-Machine-Learning/dp/1118745671/ref=sr_1_fkmrnull_1?keywords=financial+signal+processing+and+machine+learning&qid=1552911044&s=gateway&sr=8-1-fkmrnull), Akansu et al. (2016).
+* (book) [Asset Management A Systematic Approach to Factor Investing](https://www.amazon.co.uk/Management-Systematic-Investing-Financial-Association/dp/0199959323/ref=sr_1_fkmrnull_1?crid=LA057841Z0CS&keywords=asset+management+a+systematic+approach+to+factor+investing&qid=1552911140&s=gateway&sprefix=asset+management+a+%2Caps%2C133&sr=8-1-fkmrnull), Ang (2014).
+* (book) [Introduction to Risk Parity and Budgeting](https://arxiv.org/pdf/1403.1889.pdf), Roncalli (2013).
+* (book) [The Misbehaviour of Markets a Fractal View of Risk, Ruin and Reward](https://www.amazon.co.uk/Mis-Behaviour-Markets-Fractal-Reward/dp/1846682622/ref=sr_1_1?crid=3AWHTN4WAXBMR&keywords=the+misbehaviour+of+markets&qid=1552911932&s=gateway&sprefix=the+misbehaviour%2Caps%2C299&sr=8-1), Mandelbrot (2008).
+* (book) [Fooled by Randomness](https://www.amazon.co.uk/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/ref=sr_1_1?crid=2K0IMWLWXCVE6&keywords=fooled+by+randomness&qid=1552912223&s=gateway&sprefix=fooled+by+%2Caps%2C132&sr=8-1), Taleb (2007).
+* (book) [Red-Blooded Risk: The Secret History of Wall Street](https://www.amazon.co.uk/Red-Blooded-Risk-Secret-History-Street/dp/1118043863/ref=sr_1_1?keywords=red+blooded+risk&qid=1552912282&s=gateway&sr=8-1-spell), Brown (2011).
 
 
 # Deep Hedging
@@ -97,26 +115,6 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Machine Learning and Option Implied Information](https://spiral.imperial.ac.uk/bitstream/10044/1/57953/5/Yu-Z-2018-PhD-Thesis.pdf), Zheng (2018).
 
 # Machine-Learning-Asset-Allocation
-
-# Books
-
-* (book) [Portfolio Selection](https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf), Markowitz (1952).
-* (book) [Continuous Time Finance](https://www.amazon.co.uk/Continuous-Time-Finance-Macroeconomics-Robert-Merton/dp/0631185089/ref=sr_1_1?keywords=continuous+time+finance&qid=1552911190&s=gateway&sr=8-1), Merton (1992).
-* (book) [Learning Bayesian Networks](http://www.cs.technion.ac.il/~dang/books/Learning%20Bayesian%20Networks(Neapolitan,%20Richard).pdf), Neopolitan (2003).
-* (book) [Advances in Financial Machine Learning](https://www.amazon.co.uk/Advances-Financial-Machine-Learning-Marcos/dp/1119482089), De Marcos (2018).
-* (book) [Active Portfolio Management](https://www.amazon.co.uk/Active-Portfolio-Management-quantative-producing/dp/0070248826/ref=sr_1_12?ie=UTF8&qid=1551529726&sr=8-12&keywords=portfolio+management), Grinold and Kahn (1999).
-* (book) [Efficient Asset Management](https://www.amazon.co.uk/Management-Optimization-Allocation-Association-2008-03-20/dp/B01K0T9PLA/ref=sr_1_2?crid=HQUZ8WEPB4Q3&keywords=efficient+asset+management&qid=1552910379&s=gateway&sprefix=efficient+asset+%2Caps%2C132&sr=8-2), Michaud (2008).
-* (book) [Probabilistic Graphical Models: A New Way of Thinking in Financial Modelling](https://www.amazon.co.uk/Probabilistic-Graphical-Models-Financial-Modelling/dp/1782720979/ref=sr_1_2?crid=3GE4YB6FPV1W8&keywords=probabilistic+graphical+models&qid=1552910436&s=gateway&sprefix=probabilistic+%2Caps%2C135&sr=8-2), Denev (2015).
-* (book) [Portfolio Management under Stress](https://www.amazon.co.uk/Portfolio-Management-under-Stress-Bayesian-Net/dp/1107048117/ref=sr_1_fkmrnull_1?keywords=portfolio+management+under+stress&qid=1552910585&s=gateway&sr=8-1-fkmrnull), Rebonnato (2014).
-* (book) [Risk Assessment and Decision Analysis with Bayesian Networks](https://www.amazon.co.uk/Assessment-Decision-Analysis-Bayesian-Networks/dp/1138035114/ref=sr_1_fkmrnull_1?crid=JRRYQZZZYNNZ&keywords=risk+assessment+and+decision+analysis+with+bayesian+networks&qid=1552910520&s=gateway&sprefix=risk+asses%2Caps%2C133&sr=8-1-fkmrnull), Fenton (2018).
-* (book) [Portfolio Construction and Risk Budgeting](https://www.amazon.co.uk/Portfolio-Construction-Risk-Budgeting-5th/dp/1782721002/ref=sr_1_fkmrnull_1?keywords=portfolio+construction+and+risk+budgeting&qid=1552910729&s=gateway&sr=8-1-fkmrnull), Scherer (2015).
-* (book) [Machine Learning for Algorithmic Trading](https://www.amazon.co.uk/Hands-Machine-Learning-Algorithmic-Trading/dp/178934641X/ref=sr_1_1?keywords=machine+learning+for+algorithmic+trading&qid=1552910896&s=gateway&sr=8-1), Jansen (2018).
-* (book) [Financial Signal Processing and Machine Learning](https://www.amazon.co.uk/Financial-Signal-Processing-Machine-Learning/dp/1118745671/ref=sr_1_fkmrnull_1?keywords=financial+signal+processing+and+machine+learning&qid=1552911044&s=gateway&sr=8-1-fkmrnull), Akansu et al. (2016).
-* (book) [Asset Management A Systematic Approach to Factor Investing](https://www.amazon.co.uk/Management-Systematic-Investing-Financial-Association/dp/0199959323/ref=sr_1_fkmrnull_1?crid=LA057841Z0CS&keywords=asset+management+a+systematic+approach+to+factor+investing&qid=1552911140&s=gateway&sprefix=asset+management+a+%2Caps%2C133&sr=8-1-fkmrnull), Ang (2014).
-* (book) [Introduction to Risk Parity and Budgeting](https://arxiv.org/pdf/1403.1889.pdf), Roncalli (2013).
-* (book) [The Misbehaviour of Markets a Fractal View of Risk, Ruin and Reward](https://www.amazon.co.uk/Mis-Behaviour-Markets-Fractal-Reward/dp/1846682622/ref=sr_1_1?crid=3AWHTN4WAXBMR&keywords=the+misbehaviour+of+markets&qid=1552911932&s=gateway&sprefix=the+misbehaviour%2Caps%2C299&sr=8-1), Mandelbrot (2008).
-* (book) [Fooled by Randomness](https://www.amazon.co.uk/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/ref=sr_1_1?crid=2K0IMWLWXCVE6&keywords=fooled+by+randomness&qid=1552912223&s=gateway&sprefix=fooled+by+%2Caps%2C132&sr=8-1), Taleb (2007).
-* (book) [Red-Blooded Risk: The Secret History of Wall Street](https://www.amazon.co.uk/Red-Blooded-Risk-Secret-History-Street/dp/1118043863/ref=sr_1_1?keywords=red+blooded+risk&qid=1552912282&s=gateway&sr=8-1-spell), Brown (2011).
 
 # DL RL and Bandits
 
