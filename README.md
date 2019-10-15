@@ -2,7 +2,8 @@
 
 # Table of contents
 * [Key Ideas](#Key-Ideas)
-* [Books](#Books)* [RL](#RL)
+* [Books](#Books)
+* [RL](#RL)
 * [DL RL and Bandits](#DL-RL-and-Bandits)
 * [Classic Portfolio Selection Materials](#Classic-Portfolio-Selection-Materials)
 * [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection-and-Asset-Pricing)
