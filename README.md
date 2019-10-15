@@ -51,4 +51,5 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Multi-Period Trading via Convex Optimization](https://arxiv.org/pdf/1705.00109.pdf). Boyd et al. (2017).
 * [Optimal Execution of Portfolio Transactions](https://www.math.nyu.edu/faculty/chriss/optliq_f.pdf), Chris (1999).
 * [Deep Learning Volatility](https://arxiv.org/pdf/1901.09647.pdf), Horvath (2019).
+* [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/pdf/1901.08943.pdf), Liu (2019).
 
