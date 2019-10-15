@@ -1,6 +1,7 @@
 # Machine Learning for multi-period hedging and asset allocation
 
 # Table of contents
+* [Quote](#Quote)
 * [Key Ideas](#Key-Ideas)
 * [Books](#Books)
 * [RL](#RL)
@@ -9,22 +10,20 @@
 * [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection-and-Asset-Pricing)
 * [Canonical Correlation Analysis](#Canonical-Correlation-Analysis)
 
-# Key Ideas
-
-This part is for the asset allocation part, the first will be for model free derivatives hedging.
+# Quote
 
 One should avoid solving more difficult intermediate problems when solving a target problem. Vladimir Vapnik, Statistical Learning Theory, 1998
 
-We are looking to allocate to assets or strategies in a manner that is better than the current state of the art and to get RL working in real world finance, where we would argue this had not yet happened.
+# Key Ideas
 
-There are many MDP problems in finance, stochastic optimal control, many which are impractical or require a model of the environment. Applications are myriad and range from investment/ consumption decisions, derivative hedging, algorithmic trading, inventory management. 
+We are looking to allocate to assets or strategies in a manner that is better than the current state of the art and to get RL working in real world finance. Reinforcement learning is a method for solving MDP's in a model free fashion. There are many MDP problems in finance and a whole mathematical methodology such as stochastic optimal control. Applications are myriad and range from investment/ consumption decisions, derivative hedging, algorithmic trading and inventory management. Solutions may have particular value when there is path dependency on an agent's decisions into the future. 
 
-RL is a manner of solving MDP’s without already having a model of the environment. 
-In an allocation decision within Finance we have possibly the most difficult environment. This is partially observed, noisy, non-stationary and quickly reacts to new scenarios. Time also plays a key role and decisions may have long term consequences. Within finance we have one instance of our data, we do not get to replay history again and again and so supervised learning methods applicable to for example visual classification problems may be less suitable.
+In the derivative hedging method of finance, problems are usually solved in a step-wise fashion...often by calculating or adjusting the greeks, or in more awkward cases by monte carlo methods. Recent paper's hint at the ability to directly learn a hedging strategy in a greek free fashion from a simulation of the environment. In other words rather than a 2 step process - model the environment, solve the model, we can go straight from simulation to hedging, including where there are difficult real life problems such as transaction costs and path dependency and indeed complex risk adjusted functions of our final distribution of returns that we wish to maximise.
 
-In contradistinction to standard methods we are not looking to apply single period prediction and then combine these predictions using an optimiser. This is akin to supervised learning, but also in the real world consequences have long term effects and indeed actions taken may be reacted to by the environment.
+Allocation decisions within Finance lie within a most difficult environment. It is partially observed, noisy, and non-stationary, there may be outliers and regimes. Time also plays a key role and decisions again may have long term consequences. 
+In contradistinction to standard methods we are not looking to apply single period prediction and then combine these predictions using an optimiser. This is akin to supervised learning, but in the real world our actions may have long term effects and indeed actions taken by our agents may be reacted against by the environment.
 
-Most standard methods even now are single period and two stages, this involves two sets of parameters and indeed forecast error is not utility, and we may thus have the wrong target. Other works give up upon some of our ability to predict and are thus heuristic and perhaps pessimistic but practical methods for allocation decisions.
+Most standard methods are single period and represent a two stage process, this involves two sets of parameters and forecast error is not utility, so we may even be optimising the wrong target. Other works give up upon some of our ability to predict and are thus more heuristic but more practical methods for allocation decisions, albeit pessimistic.
 
 An information bottleneck is created between the supervised forecast error minimisation and the subsequent forecasts which are then used by an optimiser (some argue that this also serves as an error maximiser and indeed has its own parameters to be found). Given the noise inherent within finance and the fact that predictions are either very weak or indeed only exist for small windows of time then this makes the two stage process even more problematic.
 
@@ -33,20 +32,15 @@ However most current academic work applying RL to allocation decisions is either
 
 The Moody work was nearly 20 years ago and indeed he left academic in 2003 to set up a successful hedge fund (which continues to be successful).
 
-My goal is to advance this work using the latest in deep reinforcement learning (and potentially deep learning - such as GANs to generate training data for RL’s - thus potentially aiding the sample inefficiency problem). Data augmentation.
-
-Questions to be examined are the state of the art in RL applied to this problem, whether policy or value methods are better and to examine methods which might fit well with the particular environments within finance. That is noisy changeable environments, but where the agent may have little control over its next state, but where the agent may also receive good information as to its progress on an intermediate basis (thus to a certain extent mitigating the long term credit assignment problem), also in some cases the agent may be able on a one step basis be able to assess the impact of actions not taken.
-
-The goal is to examine the state of the art, and advance it - particularly with a view to practicality, it is the author’s view that the current gap between the state of the art in RL in academia but applied within finance remains impractical. 
+My goal is to advance this work using the latest in deep reinforcement learning (and potentially deep learning).
+The goal is to examine the state of the art, and advance it - particularly with a view to practicality, it is the author’s view that the current gap between the state of the art in RL in academia but applied within finance remains impractical. And in both parts of the research I am examining multi-period, path dependent decision making in difficult environments in a direct rather than 2 stage indirect fashion.
 
 It should also be noted that explainability and sensitivity analysis is important in finance, black boxes are not widely trusted and indeed legally there may be cases where explainability is forced. I propose to also examine RL methods within this domain where sensitivity analysis and explainability is enabled.
 
 A further question is if we are seeking to move directly from inputs to actions which in this case will be allocation weights with an objective of maximising say some long run utility, then there are practical questions as regards transaction costs, sparsity and indeed including practical constraints such as a draw down constraint. Also there are questions as regards throwing noisy time series into an RL agent and the best way to do this, for example if we go ‘deep’ do autoencoders have a part to play and should we be seeking to induce sparsity in our agent’s allocations?
 
-Note that allocation problems, may in some cases be reduced to single state bandit problems and note that sometimes a poor model of the environment may be known and the agent may possibly be able to bootstrap from here. Allocations may be to experts, assets, or indeed strategies, the environment itself may have hidden aspects to it and indeed may exhibit regime shifts.
+Note that allocation problems, may in some cases be reduced to single state bandit problems and note that sometimes a poor model of the environment may be known and the agent may possibly be able to bootstrap from here. Allocations may be to experts, assets, or indeed strategies.
 
-One issue with finance is a proof of concept as regards whether a system works or not above a baseline. We have one instance of history, thus the author intends both control experiments with simulated data and oracles, as well as real life examples.
-There are a very wide variety of financial applications that these techniques can be applied to, however there are also control problems or areas outside the financial domain where the work is expected to have applicability.
 
 # Books
 
