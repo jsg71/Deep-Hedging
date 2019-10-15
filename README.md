@@ -5,9 +5,9 @@
 * [Key Ideas](#Key-Ideas)
 * [Books](#Books)
 * [RL](#RL)
-* [DL RL and Bandits](#DL-RL-and-Bandits)
+* [DL, Online and Bandits](#DL-Online-and-Bandits)
 * [Classic Portfolio Selection Materials](#Classic-Portfolio-Selection-Materials)
-* [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection-and-Asset-Pricing)
+* [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection)
 * [Canonical Correlation Analysis](#Canonical-Correlation-Analysis)
 
 # Quote
@@ -176,7 +176,7 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Testing Portfolio Efficiency with Conditioning Information](https://www.marshall.usc.edu/sites/default/files/ferson/intellcont/TESTS%20Ferson%20Siegel-1.pdf), Ferson and Siegel (2007).
 
 
-# Machine Learning based Portfolio Selection and Asset Pricing
+# Machine Learning based Portfolio Selection
 
 * [Sparse and Stable Markowitz Portfolios](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp936.pdf), Brodie et al. (2009).
 * [A generalised approach to Portfolio Optimisation](https://pdfs.semanticscholar.org/e1d6/d5b5ea4ee63c7687721990cb301788812a7f.pdf?_ga=2.109794565.1679363491.1552914144-582257270.1544270264), DeMiguel (2009).
