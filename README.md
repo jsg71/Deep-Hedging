@@ -10,6 +10,9 @@
 * [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection)
 * [Canonical Correlation Analysis](#Canonical-Correlation-Analysis)
 
+# Deliverables for transfer on PhD
+
+
 # Quote
 
 One should avoid solving more difficult intermediate problems when solving a target problem. Vladimir Vapnik, Statistical Learning Theory, 1998
