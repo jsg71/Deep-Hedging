@@ -1,5 +1,3 @@
-# Deep-Hedging
-
 # Machine Learning for multi-period hedging and asset allocation
 
 # Table of contents
