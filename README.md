@@ -117,7 +117,9 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Deep Hedging - Presentation](https://www.maths.ox.ac.uk/system/files/attachments/2019%2004%2024%20Deep%20Hedging%20Frontiers%20Imperial%202.1.pdf), Beuler (2018).
 * [Pricing and Hedging Exotic Options with Monte Carlo Simulations](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E50E03046624FEC67933C3D86B01FA71?doi=10.1.1.194.9001&rep=rep1&type=pdf), Perilla Msc (2003).
 * [The Four Horsemen of Machine Learning in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3453564), Halperin (2019).
-
+* [Machine Learning for Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609), Ritter (2017).
+* [Reinforcement Learning With Continuous States](https://cims.nyu.edu/~ritter/ritter2018sarsa.pdf), Ritter (2018).
+* [The Usefulness of Reinforcement Learning in Finance - Pres](https://www.iaqf.org/dev/files/IAQF-2018%20-%20slides.pdf), Ritter (2018).
 
 # Machine-Learning-Asset-Allocation
 
