@@ -1,13 +1,12 @@
 # Deep-Hedging
 
+# Machine Learning for multi-period hedging and asset allocation
+
 # Table of contents
 * [Key Ideas](#Key-Ideas)
 * [RL](#RL)
 
 # Key Ideas
-
-
-
 
 # RL
 * [Reinforcement learning in financial markets - a survey](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf), Fischer (2018).
