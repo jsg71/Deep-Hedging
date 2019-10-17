@@ -2,6 +2,7 @@
 
 # Table of contents
 * [Quote](#Quote)
+* [Problems](#Problems)
 * [Key Ideas](#Key-Ideas)
 * [Books](#Books)
 * [RL](#RL)
@@ -16,6 +17,27 @@
 # Quote
 
 One should avoid solving more difficult intermediate problems when solving a target problem. Vladimir Vapnik, Statistical Learning Theory, 1998
+
+# Problems
+
+Related to stochastic optimal control - Can do model free with simulations RL and Deep RL
+
+1) Merton Problem (Portfolio and consumption)
+2) Optimal Execution - Liquidation Problem
+3) Optimal Execution - Limit Order Placement
+4) Optimal Stopping and Control
+5) Optimal Execution for statistical arbitrage
+6) Optimal execution targetting volume
+7) Market Making problems
+8) Pairs trading - optimal entry/ exit
+9) Multi-period parametric policies (Brandt in mult-period)
+10) Optimal hedging of derivatives with path dependency (JPM - explore the model and more, when is it better than monte carlo and greeks).
+
+Simulation
+
+Stochastic optimal control assumes a model, simulations assume some knowledge of the world (say monte carlo), alternative and more robust simulation methods ? (for example GAN's for time series).
+
+
 
 # Key Ideas
 
