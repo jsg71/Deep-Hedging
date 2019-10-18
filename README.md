@@ -143,6 +143,8 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Reinforcement Learning With Continuous States](https://cims.nyu.edu/~ritter/ritter2018sarsa.pdf), Ritter (2018).
 * [The Usefulness of Reinforcement Learning in Finance - Pres](https://www.iaqf.org/dev/files/IAQF-2018%20-%20slides.pdf), Ritter (2018).
 * [Generative Bayesian neural network model for risk-neutral pricing of American index options](https://www.tandfonline.com/doi/pdf/10.1080/14697688.2018.1490807?needAccess=true), Jang et al. (2018).
+* [Reinforcement Learning Applied to Option
+Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 
 # Machine-Learning-Asset-Allocation
 
