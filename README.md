@@ -145,6 +145,7 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Generative Bayesian neural network model for risk-neutral pricing of American index options](https://www.tandfonline.com/doi/pdf/10.1080/14697688.2018.1490807?needAccess=true), Jang et al. (2018).
 * [Reinforcement Learning Applied to Option
 Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
+* [Quant GANs:Deep Generation of Financial Time Series](https://arxiv.org/pdf/1907.06673.pdf), Wiese et al. (2019).
 
 # Machine-Learning-Asset-Allocation
 
