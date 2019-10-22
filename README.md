@@ -146,6 +146,7 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 * [Reinforcement Learning Applied to Option
 Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 * [Quant GANs:Deep Generation of Financial Time Series](https://arxiv.org/pdf/1907.06673.pdf), Wiese et al. (2019).
+* [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf), Lim et al. (2019).
 
 # Machine-Learning-Asset-Allocation
 
