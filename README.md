@@ -360,4 +360,5 @@ high dimensions](https://www.dropbox.com/home/CCA%20References?preview=High+Dim+
 * [Kernel Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Muandet et al. (2016).
 * [Learning via Hilbert Space Embedding of Distributions - PhD Thesis](https://www.cc.gatech.edu/~lsong/papers/lesong_thesis.pdf), Le Song (2008).
 * [Kernel Embeddings of Conditional Distributions](https://www.cc.gatech.edu/~lsong/papers/SonFukGre13.pdf), Le Song et al, (2013).
+* [Modelling Policies in MDPs in Reproducing Kernel Hilbert Space](http://proceedings.mlr.press/v38/lever15.pdf), Lever et al (2015).
 
