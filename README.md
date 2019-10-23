@@ -356,8 +356,7 @@ high dimensions](https://www.dropbox.com/home/CCA%20References?preview=High+Dim+
 # Sample Efficient
 
 * [Compressed Conditional Mean Embeddings for Model-Based Reinforcement Learning](https://www.semanticscholar.org/paper/Compressed-Conditional-Mean-Embeddings-for-Learning-Lever-Shawe-Taylor/5ddd28f0370aa8d2a322a329b1373344aaea9ace), Lever et al. (2016).
-* [ACCME: Actively Compressed Conditional Mean
-Embeddings for Model-Based Reinforcement Learning] (https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_47.pdf), Stafford et al. (2018).
+* [ACCME: Actively Compressed Conditional Mean Embeddings for Model-Based Reinforcement Learning](https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_47.pdf), Stafford et al. (2018).
 * [Kernel Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Muandet et al. (2016).
 * [Learning via Hilbert Space Embedding of Distributions - PhD Thesis](https://www.cc.gatech.edu/~lsong/papers/lesong_thesis.pdf), Le Song (2008).
 * [Kernel Embeddings of Conditional Distributions](https://www.cc.gatech.edu/~lsong/papers/SonFukGre13.pdf), Le Song et al, (2013).
