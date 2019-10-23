@@ -10,6 +10,7 @@
 * [Classic Portfolio Selection Materials](#Classic-Portfolio-Selection-Materials)
 * [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection)
 * [Canonical Correlation Analysis](#Canonical-Correlation-Analysis)
+* [Sample Efficient](#Sample-Efficient)
 
 # Deliverables for transfer on PhD
 
@@ -351,4 +352,13 @@ high dimensions](https://www.dropbox.com/home/CCA%20References?preview=High+Dim+
 * [Multiview Canonical Correlation Analysis - Phd Thesis](http://slais.ijs.si/theses/2016-06-17-Rupnik.pdf), Rupnik (2016).
 * [Generative Adversarial Networks for FinancialTrading Strategies Fine-Tuning and Combination](https://arxiv.org/pdf/1901.01751.pdf), Koshiyama (2019).
 * [Temporal Kernel CCA and its Application in MultimodalNeuronal Data Analysis](http://www.cs.cmu.edu/~arthurg/papers/tkCCA.pdf), Bierman et al. (2009)
+
+# Sample Efficient
+
+* [Compressed Conditional Mean Embeddings for Model-Based Reinforcement Learning](https://www.semanticscholar.org/paper/Compressed-Conditional-Mean-Embeddings-for-Learning-Lever-Shawe-Taylor/5ddd28f0370aa8d2a322a329b1373344aaea9ace), Lever et al. (2016).
+* [ACCME: Actively Compressed Conditional Mean
+Embeddings for Model-Based Reinforcement Learning] (https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_47.pdf), Stafford et al. (2018).
+* [Kernel Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Muandet et al. (2016).
+* [Learning via Hilbert Space Embedding of Distributions - PhD Thesis](https://www.cc.gatech.edu/~lsong/papers/lesong_thesis.pdf), Le Song (2008).
+* [Kernel Embeddings of Conditional Distributions](https://www.cc.gatech.edu/~lsong/papers/SonFukGre13.pdf), Le Song et al, (2013).
 
