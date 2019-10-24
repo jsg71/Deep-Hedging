@@ -372,5 +372,6 @@ high dimensions](https://www.dropbox.com/home/CCA%20References?preview=High+Dim+
 * [Pseudo-MDPs and Factored Linear Action Models](https://sites.ualberta.ca/~szepesva/papers/ieee_adprl2014.pdf), Yao et al. (2008).
 * [Approximate policy iteration: A survey and some new methods](https://dspace.mit.edu/handle/1721.1/73485), Bertsekas (2012).
 * [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf),Gu et al. (2016).
+* [Learning of Non-Parametric Control Policies with High-Dimensional State Features](http://proceedings.mlr.press/v38/vanhoof15.pdf), Van Hoof et al. (2015).
 
 
