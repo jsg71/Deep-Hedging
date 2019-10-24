@@ -373,5 +373,6 @@ high dimensions](https://www.dropbox.com/home/CCA%20References?preview=High+Dim+
 * [Approximate policy iteration: A survey and some new methods](https://dspace.mit.edu/handle/1721.1/73485), Bertsekas (2012).
 * [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf),Gu et al. (2016).
 * [Learning of Non-Parametric Control Policies with High-Dimensional State Features](http://proceedings.mlr.press/v38/vanhoof15.pdf), Van Hoof et al. (2015).
+* [Learning Transition Dynamics in MDPs with Online Regression and Greedy Feature Selection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.6587&rep=rep1&type=pdf), Lever et al. (2015).
 
 
