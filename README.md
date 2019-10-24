@@ -361,4 +361,16 @@ high dimensions](https://www.dropbox.com/home/CCA%20References?preview=High+Dim+
 * [Learning via Hilbert Space Embedding of Distributions - PhD Thesis](https://www.cc.gatech.edu/~lsong/papers/lesong_thesis.pdf), Le Song (2008).
 * [Kernel Embeddings of Conditional Distributions](https://www.cc.gatech.edu/~lsong/papers/SonFukGre13.pdf), Le Song et al, (2013).
 * [Modelling Policies in MDPs in Reproducing Kernel Hilbert Space](http://proceedings.mlr.press/v38/lever15.pdf), Lever et al (2015).
+* [Kernel-Based Reinforcement Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.7812&rep=rep1&type=pdf), Ormoneit et al. (2002).
+* [Practical Kernel-Based Reinforcement Learning](https://arxiv.org/pdf/1407.5358.pdf), Barreto et al. (2014).
+* [Reinforcement Learning using Kernel-Based Stochastic Factorization](https://www.cs.mcgill.ca/~jpineau/files/barreto-nips11.pdf), Barreto et al. (2011).
+* [Conditional mean embeddings as regressors](http://www.gatsby.ucl.ac.uk/~gretton/papers/GruLevBalPatetal12.pdf), Grunewalder et al. (2012).
+* [Modelling transition dynamics in mdps with rkhs embeddings](https://arxiv.org/pdf/1206.4655.pdf), Grunewalder et al. (2012).
+* [Kernel-Based Reinforcement Learning on Representative States](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/4967/5509), Kveton et al. (2012).
+* [Least-Squares Policy Iteration](http://www.jmlr.org/papers/volume4/lagoudakis03a/lagoudakis03a.pdf),  Lagoudakis et al. (2003).
+* [An Analysis of Linear Models, Linear Value-Function Approximation, and Feature Selection for Reinforcement Learning](https://users.cs.duke.edu/~parr/icml08.pdf), Parr et al. (2008).
+* [Pseudo-MDPs and Factored Linear Action Models](https://sites.ualberta.ca/~szepesva/papers/ieee_adprl2014.pdf), Yao et al. (2008).
+* [Approximate policy iteration: A survey and some new methods](https://dspace.mit.edu/handle/1721.1/73485), Bertsekas (2012).
+* [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf),Gu et al. (2016).
+
 
