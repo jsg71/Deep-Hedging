@@ -148,6 +148,7 @@ within the Algorithmic Trading Domain](https://www.doc.ic.ac.uk/teaching/disting
 Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 * [Quant GANs:Deep Generation of Financial Time Series](https://arxiv.org/pdf/1907.06673.pdf), Wiese et al. (2019).
 * [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf), Lim et al. (2019).
+* [Deep Learning Approximation for Stochastic Control Problems (https://www.researchgate.net/publication/310672039_Deep_Learning_Approximation_for_Stochastic_Control_Problems/link/5a37c5a3aca272a6ec1e4fd1/download) Han et al. (2016).
 
 # Machine-Learning-Asset-Allocation
 
