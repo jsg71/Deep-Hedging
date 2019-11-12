@@ -92,7 +92,6 @@ Note that allocation problems, may in some cases be reduced to single state band
 # Deep Hedging
 # RL
 * [Reinforcement learning in financial markets - a survey](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf), Fischer (2018).
-* [Reinforcement Learning in Financial Markets](https://ideas.repec.org/p/zbw/iwqwdp/122018.html#targetText=The%20advent%20of%20reinforcement%20learning,this%20field%20of%20artificial%20intelligence.&targetText=At%20the%20same%20time%2C%20important,be%20conveniently%20taken%20into%20account.), Meng et al. (2019).
 * [Optimal Asset Allocation Using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf), Neuneier (1996).
 * [Reinforcement Learning for Trading Systems and Portfolios](https://pdfs.semanticscholar.org/10f3/4407d0f7766cfb887334de4ce105d5aa8aae.pdf), Moody et al (1998).
 * [PERFORMANCE FUNCTIONS AND REINFORCEMENT LEARNING FOR TRADING SYSTEMS AND PORTFOLIOS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.8437&rep=rep1&type=pdf), Moody et al (1998).
