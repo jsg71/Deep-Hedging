@@ -149,6 +149,7 @@ Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 * [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf), Lim et al. (2019).
 * [Deep Learning Approximation for Stochastic Control Problems](https://www.researchgate.net/publication/310672039_Deep_Learning_Approximation_for_Stochastic_Control_Problems/link/5a37c5a3aca272a6ec1e4fd1/download) Han et al. (2016).
 * [Deep Reinforcement Learning for Trading](https://arxiv.org/pdf/1911.10107.pdf), Zhang (2019).
+* [Model-based Reinforcement Learning for Predictions and Control for Limit Order Books](https://arxiv.org/pdf/1910.03743.pdf), Wei et al. (2019). 
 
 # Machine-Learning-Asset-Allocation
 
