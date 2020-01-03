@@ -1,4 +1,4 @@
-# Machine Learning for multi-period hedging and asset allocation
+# Keep static for the time being - shifting to a survey paper on RL
 
 # Table of contents
 * [Quote](#Quote)
