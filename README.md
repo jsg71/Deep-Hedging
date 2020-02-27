@@ -150,6 +150,8 @@ Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 * [Deep Learning Approximation for Stochastic Control Problems](https://www.researchgate.net/publication/310672039_Deep_Learning_Approximation_for_Stochastic_Control_Problems/link/5a37c5a3aca272a6ec1e4fd1/download) Han et al. (2016).
 * [Deep Reinforcement Learning for Trading](https://arxiv.org/pdf/1911.10107.pdf), Zhang (2019).
 * [Model-based Reinforcement Learning for Predictions and Control for Limit Order Books](https://arxiv.org/pdf/1910.03743.pdf), Wei et al. (2019). 
+* [Topics in Dynamic Portfolio Choice Problems -PhD Thesis](https://escholarship.org/content/qt9fc8j8rz/qt9fc8j8rz.pdf), Wimonkittiwat, (2013)
+* [Reinforcement-Learning based Portfolio Management with Augmented Asset Movement Prediction States(https://arxiv.org/pdf/2002.05780.pdf), Ye et al. (2020).
 
 # Machine-Learning-Asset-Allocation
 
@@ -178,6 +180,7 @@ Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 , Feng et al. (2017).
 * [Fourier Policy Gradients](https://arxiv.org/pdf/1802.06891.pdf), Fellows et al. (2018).
 * [Expected Policy Gradients](http://www.ciosek.net/dwnl/ciosek-whiteson-epg.pdf), Kiosek et al. (2018).
+
 
 # Classic Portfolio Selection Materials
 * [Portfolio Selection](https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf), Markowitz (1952).
