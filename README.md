@@ -151,7 +151,7 @@ Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 * [Deep Reinforcement Learning for Trading](https://arxiv.org/pdf/1911.10107.pdf), Zhang (2019).
 * [Model-based Reinforcement Learning for Predictions and Control for Limit Order Books](https://arxiv.org/pdf/1910.03743.pdf), Wei et al. (2019). 
 * [Topics in Dynamic Portfolio Choice Problems -PhD Thesis](https://escholarship.org/content/qt9fc8j8rz/qt9fc8j8rz.pdf), Wimonkittiwat, (2013)
-* [Reinforcement-Learning based Portfolio Management with Augmented Asset Movement Prediction States(https://arxiv.org/pdf/2002.05780.pdf), Ye et al. (2020).
+* [Reinforcement-Learning based Portfolio Management with Augmented Asset Movement Prediction States](https://arxiv.org/pdf/2002.05780.pdf), Ye et al. (2020).
 
 # Machine-Learning-Asset-Allocation
 
